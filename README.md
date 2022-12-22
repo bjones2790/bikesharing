@@ -1,6 +1,6 @@
 **Overview**
 
-This analysis looks at Citi bike usage data for New York City during August 2019. The analysis uses a combination of Python and Tableau to analyze and format the data, while Tableau was used to create an interactive dashboard. 
+This analysis looks at Citi bike usage data for New York City during August 2019 to help investors determine if a similar program in Des Moines would be viable. The analysis uses a combination of Python and Tableau to analyze and format the data, while Tableau was used to create an interactive dashboard. 
 
 The dashboard link can be found here: [Dashboard]([https://link-url-here.org](https://public.tableau.com/app/profile/bruce.jones7168/viz/CitiBikeData_16715899033720/Story1?publish=yes))
 
